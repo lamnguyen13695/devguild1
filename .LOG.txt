@@ -1,0 +1,8 @@
+git add .
+// save locally on computer
+
+git remote add ...
+//add repos
+
+git push -u origin 
+//syncronize with the repos
